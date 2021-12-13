@@ -1,15 +1,19 @@
+using apirest;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
-builder.Services.AddControllers();
+/*!!!A linha comentada a seguir foi inserida na classe startup.*/
+/*builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen();*/
 
-var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+var startup = new Startup(builder.Configuration);
+startup.ConfigureServices(builder.Services);
+
+/*// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -20,6 +24,7 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-app.MapControllers();
-
+app.MapControllers();*/
+var app = builder.Build();
+startup.Configure(app, app.Environment);
 app.Run();

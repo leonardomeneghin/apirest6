@@ -1,3 +1,5 @@
+using apirest.Controllers.Model;
+using apirest.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace apirest.Controllers;
@@ -9,15 +11,24 @@ no nome da classe.*/
 public class PersonController : ControllerBase
 {
     private readonly ILogger<PersonController> _logger;
+    private IPersonService _personService; //Instancia do serviço no controller
 
-    public PersonController(ILogger<PersonController> logger)
+    public PersonController(ILogger<PersonController> logger, IPersonService personService)
     {
         _logger = logger;
+        _personService = personService;
     }
 
-    [HttpGet("")]
-    public IActionResult Get(string firstNumber, string secondNumber)
+    [HttpGet()]
+    public IActionResult Get()
     {
+        return Ok(_personService.FindAll());
+        
+    }
+    [HttpGet()]
+    public IActionResult Get()
+    {
+        return Ok(_personService.FindAll());
 
     }
 }
