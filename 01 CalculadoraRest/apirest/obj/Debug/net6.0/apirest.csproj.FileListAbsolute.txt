@@ -1,0 +1,54 @@
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\appsettings.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\apirest.exe
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\apirest.deps.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\apirest.runtimeconfig.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\apirest.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\ref\apirest.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\apirest.pdb
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.AssemblyInfo.cs
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\scopedcss\bundle\apirest.styles.css
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.csproj.CopyComplete
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\ref\apirest.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.pdb
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\apirest\apirest\obj\Debug\net6.0\apirest.genruntimeconfig.cache
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.AssemblyInfo.cs
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\ref\apirest.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.pdb
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\appsettings.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\apirest.exe
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\apirest.deps.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\apirest.runtimeconfig.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\apirest.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\ref\apirest.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\apirest.pdb
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\scopedcss\bundle\apirest.styles.css
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.csproj.CopyComplete
+C:\Users\Leo\source\repos\APINETCORE6\apirest6\01 CalculadoraRest\apirest\obj\Debug\net6.0\apirest.genruntimeconfig.cache
